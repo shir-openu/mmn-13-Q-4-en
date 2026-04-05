@@ -73,7 +73,7 @@ export default async function handler(req, res) {
 
 const prompt = `
 # CRITICAL INSTRUCTIONS
-1. Respond in ENGLISH only
+1. ALWAYS respond in ENGLISH. This is the English version of the exercise. Even if the student writes in another language, you MUST respond in English
 2. Be PRACTICAL and SPECIFIC - give concrete mathematical guidance
 3. Keep responses 2-4 sentences
 4. Use clear, accessible language
